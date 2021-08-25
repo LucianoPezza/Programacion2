@@ -1,0 +1,12 @@
+C:\Users\Luciano\Desktop\Proyectos C#\Ejercicio calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\Proyectos C#\Ejercicio calculadora\Calculadora\obj\Debug\net5.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\Proyectos C#\Ejercicio calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\Proyectos C#\Ejercicio calculadora\Calculadora\obj\Debug\net5.0\Calculadora.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\Proyectos C#\Ejercicio calculadora\Calculadora\obj\Debug\net5.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\Proyectos C#\Ejercicio calculadora\Calculadora\bin\Debug\net5.0\Calculadora.deps.json
+C:\Users\Luciano\Desktop\Proyectos C#\Ejercicio calculadora\Calculadora\bin\Debug\net5.0\Calculadora.dll
+C:\Users\Luciano\Desktop\Proyectos C#\Ejercicio calculadora\Calculadora\bin\Debug\net5.0\ref\Calculadora.dll
+C:\Users\Luciano\Desktop\Proyectos C#\Ejercicio calculadora\Calculadora\bin\Debug\net5.0\Calculadora.pdb
+C:\Users\Luciano\Desktop\Proyectos C#\Ejercicio calculadora\Calculadora\obj\Debug\net5.0\Calculadora.dll
+C:\Users\Luciano\Desktop\Proyectos C#\Ejercicio calculadora\Calculadora\obj\Debug\net5.0\ref\Calculadora.dll
+C:\Users\Luciano\Desktop\Proyectos C#\Ejercicio calculadora\Calculadora\obj\Debug\net5.0\Calculadora.pdb
