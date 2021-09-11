@@ -1,0 +1,19 @@
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\bin\Debug\net5.0-windows\Hoa windows form.exe
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\bin\Debug\net5.0-windows\Hoa windows form.deps.json
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\bin\Debug\net5.0-windows\Hoa windows form.runtimeconfig.json
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\bin\Debug\net5.0-windows\Hoa windows form.runtimeconfig.dev.json
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\bin\Debug\net5.0-windows\Hoa windows form.dll
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\bin\Debug\net5.0-windows\ref\Hoa windows form.dll
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\bin\Debug\net5.0-windows\Hoa windows form.pdb
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\obj\Debug\net5.0-windows\Hoa windows form.csproj.AssemblyReference.cache
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\obj\Debug\net5.0-windows\Hoa_windows_form.Form1.resources
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\obj\Debug\net5.0-windows\Hoa windows form.csproj.GenerateResource.cache
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\obj\Debug\net5.0-windows\Hoa windows form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\obj\Debug\net5.0-windows\Hoa windows form.AssemblyInfoInputs.cache
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\obj\Debug\net5.0-windows\Hoa windows form.AssemblyInfo.cs
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\obj\Debug\net5.0-windows\Hoa windows form.csproj.CoreCompileInputs.cache
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\obj\Debug\net5.0-windows\Hoa windows form.dll
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\obj\Debug\net5.0-windows\ref\Hoa windows form.dll
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\obj\Debug\net5.0-windows\Hoa windows form.pdb
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\obj\Debug\net5.0-windows\Hoa windows form.genruntimeconfig.cache
+C:\Users\Luciano\Desktop\Proyectos C#\Hoa windows form\Hoa windows form\obj\Debug\net5.0-windows\Hoa_windows_form.Form2.resources
